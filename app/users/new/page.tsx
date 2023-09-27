@@ -1,9 +1,10 @@
 import React from 'react'
+import UsersPage from '../page'
 
 const NewUserPage = () => {
   return (
     <div>
-      New User Page
+      <UsersPage />
     </div>
   )
 }
